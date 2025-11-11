@@ -89,7 +89,7 @@ $teknisi_terbaru = $stmt->fetchAll(PDO::FETCH_ASSOC);
         </div>
     </div>
 </div>
-
+<!-- ini di edit -->
 <div class="row">
     <!-- Teknisi Terbaru -->
     <div class="col-12">
