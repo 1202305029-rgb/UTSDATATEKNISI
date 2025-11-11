@@ -82,5 +82,5 @@ $teknisi = $stmt->fetchAll(PDO::FETCH_ASSOC);
         </div>
     </div>
 </div>
-
+<!-- di edit -->
 <?php include 'footer.php'; ?>
